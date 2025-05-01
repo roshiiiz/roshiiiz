@@ -80,23 +80,24 @@
 
 ---
 ## My GitHub Stats
+
+<!-- GitHub Stats -->
 <div align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=roshiiiz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1">
     <img src="https://github-readme-stats.vercel.app/api?username=roshiiiz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub stats graph" />
   </a>
 </div>
 
+<!-- GitHub Streak Graph -->
 <div align="center">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=roshiiz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1">
-    <img src="https://github-readme-stats.vercel.app/api?username=roshiiiz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://streak-stats.demolab.com?user=roshiiiz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3">
+    <img src="https://streak-stats.demolab.com?user=roshiiiz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
   </a>
 </div>
 
+<!-- Contribution Snake -->
 <p align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/roshiiiz/roshiiiz/output/github-contribution-grid-snake-dark.svg">
     <img src="https://raw.githubusercontent.com/roshiiiz/roshiiiz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   </a>
 </p>
-
-
-
