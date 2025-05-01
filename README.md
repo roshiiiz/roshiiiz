@@ -31,7 +31,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=roshiiiz&theme=radical&margin-w=10" />
   </a>
   <br />
-  <img src="https://img.shields.io/badge/Visitors-417-blue" />
 </p>
 
 ---
