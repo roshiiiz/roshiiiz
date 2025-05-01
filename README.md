@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshaan </h1>
 
-<img src="https://your-banner-image-url" width="100%" />
+<img src="[https://your-banner-image-url" width="100%" ](https://github.com/roshiiiz/roshiiiz/raw/main/Coding.gif)/>
 
 ---
 
