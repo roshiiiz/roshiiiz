@@ -35,6 +35,8 @@
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=roshiiiz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshiiiz&layout=compact&theme=radical)
+## My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshiiiz&show_icons=true&count_private=true&theme=radical)
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=roshiiiz&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshiiiz&langs_count=5&theme=radical)
