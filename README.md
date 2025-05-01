@@ -26,12 +26,12 @@
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center">
+<p align="left" dir="auto">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=roshiiiz&theme=radical&margin-w=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=amer-mukhtar&theme=white&margin-w=10" alt="amer-mukhtar" style="max-width: 100%;" />
   </a>
-  <br />
 </p>
+
 
 ---
 
