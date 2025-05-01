@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshaan </h1>
 
-<img src="Coding.gif" width="100%" />
+<img src="Coding.gif" width="100%" style="max-width: 100%; display: inline-block;" />
 
 ---
 
