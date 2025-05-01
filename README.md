@@ -19,7 +19,7 @@
 
 ### 🧑‍💻 I'm a Passionate Mobile App Developer
 
-- 🔭 I’m love working on React Native apps and building amazing mobile experiences.
+- 🔭 I love working on React Native apps and building amazing mobile experiences.
 - 🌱 Currently learning Flutter to expand my skill set and build cross-platform apps.
 - 💻 Check out all my projects on [GitHub](https://github.com/roshiiiz).
 
