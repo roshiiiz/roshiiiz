@@ -19,9 +19,9 @@
 
 ### 🧑‍💻 I'm a Passionate Mobile App Developer
 
-- 🔭 I’m currently working on React Native apps
-- 🌱 I’m learning Firebase, Bloc & Clean Architecture
-- 👨‍💻 All of my projects are available at [https://github.com/roshiiiz]
+- 🔭 I’m currently working on React Native apps and building amazing mobile experiences.
+- 🌱 Currently learning Flutter to expand my skill set and build cross-platform apps.
+- 💻 Check out all my projects on [GitHub](https://github.com/roshiiiz).
 
 ---
 
