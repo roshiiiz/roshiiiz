@@ -90,13 +90,7 @@
 <!-- GitHub Streak Graph -->
 <div align="center">
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://streak-stats.demolab.com?user=roshiiiz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3">
-    <img src="https://streak-stats.demolab.com?user=roshiiiz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+    <img src="https://camo.githubusercontent.com/0440ad70e559a5b0c208a6ca2bd0fbbe2ef65b7c2bdfe9edfdb5a7e1d6a16bd4/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d416d65722d4d756b68746172266c6f63616c653d656e266d6f64653d6461696c79267468656d653d6461726b26686964655f626f726465723d66616c736526626f726465725f7261646975733d35266f726465723d33" height="220" alt="streak graph" data-canonical-src="https://streak-stats.demolab.com?user=roshiiiz&amp;locale=en&amp;mode=daily&amp;theme=dark&amp;hide_border=false&amp;border_radius=5&amp;order=3" style="max-width: 100%;">
   </a>
 </div>
 
-<!-- Contribution Snake -->
-<p align="center">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/roshiiiz/roshiiiz/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/roshiiiz/roshiiiz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  </a>
-</p>
