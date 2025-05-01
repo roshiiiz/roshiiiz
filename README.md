@@ -27,8 +27,11 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=roshiiiz&theme=radical&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-![visitors](https://img.shields.io/badge/Visitors-417-blue)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=roshiiiz&theme=radical&margin-w=10" />
+  </a>
+  <br />
+  <img src="https://img.shields.io/badge/Visitors-417-blue" />
 </p>
 
 ---
