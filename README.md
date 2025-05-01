@@ -82,9 +82,9 @@
 ## My GitHub Stats
 
 <!-- GitHub Stats -->
-<div align="center">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=roshiiiz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1">
-    <img src="https://github-readme-stats.vercel.app/api?username=roshiiiz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub stats graph" />
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://streak-stats.demolab.com?user=roshiiiz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3">
+    <img src="https://streak-stats.demolab.com?user=roshiiiz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" style="max-width: 100%;" />
   </a>
 </div>
 
