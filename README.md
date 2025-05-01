@@ -34,9 +34,67 @@
 
 
 ---
+---
 
+### 🏆 Languages And Tools
+<div align="left">
+  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio logo" />
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  </a>
+</div>
+
+---
 ## My GitHub Stats
+<div align="center">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://streak-stats.demolab.com?user=roshiiiz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3">
+    <img src="https://streak-stats.demolab.com?user=roshiiiz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  </a>
+</div>
+<div align="center">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=Amer-Mukhtar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1">
+    <img src="https://github-readme-stats.vercel.app/api?username=Amer-Mukhtar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  </a>
+</div>
+<p align="center">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Amer-Mukhtar/Amer-Mukhtar/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Amer-Mukhtar/Amer-Mukhtar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </a>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roshiiiz&show_icons=true&count_private=true&theme=radical)
-![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=roshiiiz&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshiiiz&langs_count=5&theme=radical)
+
