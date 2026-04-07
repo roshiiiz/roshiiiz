@@ -39,7 +39,7 @@
 
 <br>
 
-** What Drives Me**
+**What Drives Me**
 
 - Building pixel-perfect, responsive interfaces with **React Native**
 - Understanding how systems work behind the scenes - not just making them work
