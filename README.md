@@ -27,30 +27,31 @@
 
 ##  **About Me**
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding" />
+</div>
+
+<br>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right" style="border-radius:12px;"/>
+  I'm <strong>Roshaan</strong>, a passionate <strong>Computer Science student</strong> who loves bringing ideas to life through code. I specialize in <strong>frontend & mobile app development</strong>, crafting interfaces that feel clean, intuitive, and genuinely enjoyable to use.
 </p>
 
-<p align="left">
-I'm <strong>Roshaan</strong>, a passionate <strong>Computer Science student</strong> who loves bringing ideas to life through code. I specialize in <strong>frontend & mobile app development</strong>, crafting interfaces that feel clean, intuitive, and genuinely enjoyable to use.
-</p>
+<br>
 
-<p align="left">
- <strong>What Drives Me</strong><br>
-• Building pixel-perfect, responsive interfaces with <strong>React Native </strong><br>
-• Understanding how systems work behind the scenes - not just making them work<br>
-• Solving problems outside my comfort zone to grow as a developer<br>
-• Seeing products from multiple perspectives - design, data, and user experience<br>
-• Learning by doing: from data visualization to full-stack integration
-</p>
+** What Drives Me**
 
-<p align="left">
- <strong>Current Focus:</strong> Developing a Personal AI Wardrobe with 3D Avatars - blending mobile development, machine learning, and immersive 3D experiences.
-</p>
+- Building pixel-perfect, responsive interfaces with **React Native**
+- Understanding how systems work behind the scenes - not just making them work
+- Solving problems outside my comfort zone to grow as a developer
+- Seeing products from multiple perspectives - design, data, and user experience
+- Learning by doing: from data visualization to full-stack integration
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&text=&fontSize=0" width="100%" />
+<br>
 
-## 💎 **Technical Skills**
+**Current Focus:** Developing a *Personal AI Wardrobe with 3D Avatars* - blending mobile development, machine learning, and immersive 3D experiences.
+
+##  **Technical Skills**
 
 <div style="text-align: center;">
 
