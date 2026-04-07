@@ -49,7 +49,7 @@
 
 <br>
 
-**Current Focus:** Developing a *Personal AI Wardrobe with 3D Avatars* - blending mobile development, machine learning, and immersive 3D experiences.
+**Current Focus:** Developing a Personal AI Wardrobe with 3D Avatars - blending mobile development, machine learning, and immersive 3D experiences.
 
 ##  **Technical Skills**
 
