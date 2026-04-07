@@ -1,80 +1,78 @@
-<h1 align="center">Hi 👋, I'm Roshaan </h1>
+<h1 align="center">Hi 👋, I'm Roshaan</h1>
 
-<img src="Coding.gif" width="100%" style="max-width: 100%; display: inline-block;" />
+<p align="center">
+  🚀 Mobile Engineer | React Native | Building Scalable Apps
+</p>
+
+<img src="Coding.gif" width="100%" />
 
 ---
 
-<h3 align="center">🌐 Connect with me:</h3>
+<h3 align="center">🌐 Connect with me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roshaan-zaffar-34817826b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:roshaanzafar12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 I'm a Passionate Mobile App Developer
+### 🧠 About Me
 
-- 🔭 I love working on React Native apps and building amazing mobile experiences.
-- 🌱 Currently learning Flutter to expand my skill set and build cross-platform apps.
-- 💻 Check out all my projects on [GitHub](https://github.com/roshiiiz).
+- 📱 Building high-performance apps using **React Native**
+- ⚡ Focused on **clean architecture + scalable systems**
+- 🔥 Exploring **AI-powered apps + backend integration**
+- 💡 Goal: Become a **top-tier mobile + full-stack engineer**
 
 ---
 
 ### 🏆 GitHub Trophies
-<p align="left" dir="auto">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amer-mukhtar&theme=white&margin-w=10" alt="amer-mukhtar" style="max-width: 100%;" />
-  </a>
-</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roshiiiz&theme=darkhub&no-frame=true&margin-w=10&row=1" />
+</p>
 
 ---
 
-### 🏆 Languages And Tools
-<div align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio logo" />
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  </a>
-  <a target="_blank" rel="noopener noreferrer" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  </a>
-</div>
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roshiiiz&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshiiiz&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,flutter,dart,java,cpp,python,firebase,androidstudio,git,github,figma,html,css" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+
+- 🔹 **Project Name** – Short impactful description (what problem it solves)
+- 🔹 **Project Name** – Mention tech + result (e.g. reduced load time by X%)
+- 🔹 **Project Name** – Show real-world usage or users
+
+---
+
+### ⚡ What I'm Learning Now
+
+- 🧠 AI integration in mobile apps
+- 🌐 Backend (Node.js / APIs)
+- ⚙️ Performance optimization in React Native
+
+---
+
+### 🧭 2026 Focus
+
+- Build **production-level apps**
+- Contribute to **open source**
+- Ship projects that solve **real problems**
